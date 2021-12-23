@@ -11,5 +11,8 @@
             "email": "osamaahmed.sus@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "vlucas/phpdotenv": "^5.4",
+        "symfony/var-dumper": "^6.0"
+    }
 }
