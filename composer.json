@@ -1,0 +1,15 @@
+{
+    "name": "osama-su/php-mvc",
+    "autoload": {
+        "psr-4": {
+            "OsamaSu\\PhpMvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Osama Ahmed",
+            "email": "osamaahmed.sus@gmail.com"
+        }
+    ],
+    "require": {}
+}
