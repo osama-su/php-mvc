@@ -2,7 +2,7 @@
     "name": "osama-su/php-mvc",
     "autoload": {
         "psr-4": {
-            "OsamaSu\\PhpMvc\\": "src/"
+            "PhpMvc\\": "src"
         }
     },
     "authors": [
